@@ -1,0 +1,36 @@
+_repo: -Farewell-Nikola-_39906
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Piffard, Harold
+    deathdate: 1938
+    gutenberg_agent_id: '9844'
+    url: http://www.gutenberg.org/2009/agents/9844
+covers:
+- cover_type: archival
+  image_path: 39906-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boothby, Guy
+    alias: Boothby, Guy Newell
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '3587'
+    url: http://www.gutenberg.org/2009/agents/3587
+    wikipedia: http://en.wikipedia.org/wiki/Guy_Boothby
+description: ''
+gutenberg_issued: '2012-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Occultism -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcc 'PR'
+- !lcsh 'Venice (Italy) -- Fiction'
+title: '''Farewell, Nikola'''
+url: http://www.gutenberg.org/ebooks/39906
